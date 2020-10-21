@@ -6,3 +6,6 @@ const kerTer = (a, b) => {
 		terulet: ter,
 		}
 };
+
+
+console.log(kerTer(2,2));
